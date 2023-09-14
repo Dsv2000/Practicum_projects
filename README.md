@@ -1,2 +1,2 @@
-# Prakticum_projects
+# TripleTen_projects
 Data Analyst course
